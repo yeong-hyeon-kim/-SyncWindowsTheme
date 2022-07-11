@@ -50,7 +50,7 @@
    |1|라이트(`Light`)|
 
 * 윈도우(Windows) 다크 모드
-![다크 모드](../SyncWindowsTheme/Image/Dark.PNG)
+![다크 모드](./Image/Dark.PNG)
 
 * 윈도우(Windows) 라이트 모드
-![라이트 모드](../SyncWindowsTheme/Image/Light.PNG)
+![라이트 모드](./Image/Light.PNG)
